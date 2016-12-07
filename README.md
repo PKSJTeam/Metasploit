@@ -32,32 +32,4 @@ Akan muncul pertanyaan-pertanyaan.
 Jawab "Ya"
 
 ```
-What directory are all the server configuration files in?
-```
-Lanjut
-
-```
-What is the path to the ircd binary including the name of the binary?
-```
-Lanjut
-
-```
-Would you like to compile as a hub or as a leaf?
-```
-Lanjut
-
-```
-What is the hostname of the server running your IRCd?
-```
-Lanjut
-
-```
- What should the default permissions for your configuration files be?
-```
-Lanjut
-
-```
- Do you want to support SSL (Secure Sockets Layer) connections?
-```
-Lanjut
-
+Untuk pertanyaan lain, lanjut sampai adanya pemberitahuan bahwa configurasi berhasil.
