@@ -4,7 +4,7 @@
 
 ### Pemasangan UnrealIRCd
 
-unduh programnya di link berikuut [ini](https://www.exploit-db.com/apps/752e46f2d873c1679fa99de3f52a274d-Unreal3.2.8.1_backdoor.tar_.gz)
+unduh programnya di link berikut [ini](https://www.exploit-db.com/apps/752e46f2d873c1679fa99de3f52a274d-Unreal3.2.8.1_backdoor.tar_.gz)
 kemudian ekstrak ke tempat yang sama.
 
 Install dependencies.
@@ -85,7 +85,7 @@ make
 
 ## Mengatur UnrealIRCd.conf
 
-### a. srample.conf
+### a. example.conf
 File konfigurasi ini sangat penting. Sesudah menjalankan perintah di atas jalankan perintah di bawah ini:
 ```bash
 cp doc/example.conf unrealircd.conf
