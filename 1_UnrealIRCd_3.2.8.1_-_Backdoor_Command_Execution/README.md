@@ -30,15 +30,25 @@ c. Virtual Box merupakan software virtualisasi yang digunakan untuk menginstal O
 ## UnrealIRCd 3.2.8.1 - Backdoor Command Execution (Metasploit)
 
 Instalasi Metasploitable
-1.![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/1.JPG)
+1.
 
-2.![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/2.JPG)
+![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/1.JPG)
 
-3.![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/3.JPG)
+2.
 
-4. ![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/4.JPG)
+![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/2.JPG)
 
-5.![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/5.JPG)
+3.
+
+![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/3.JPG)
+
+4.
+
+![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/4.JPG)
+
+5.
+
+![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/5.JPG)
 
 
 ### Pemasangan UnrealIRCd
