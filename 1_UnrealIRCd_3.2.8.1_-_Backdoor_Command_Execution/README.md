@@ -110,6 +110,7 @@ How many buffer pools would you like?
 How many file descriptors (or sockets) can the IRCd use?
 Would you like any more parameters to configure?
 ```
+![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/8.JPG)
 
 Kembali lagi dengan permasalahan tadi. Jika jawaban dari pertanyaan
 ```bash
@@ -131,6 +132,7 @@ Sekarang ketikkan perintah di bawah ini
 ```bash
 make
 ```
+![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/Config.JPG)
 
 ## Mengatur UnrealIRCd.conf
 
@@ -332,6 +334,8 @@ Langkah terakhir jalankan UnrealIRCd
 ```bash
 msfconsole
 ```
+
+![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/11.JPG)
 
 ### Gunakan exploit *UnrealIRCd 3.2.8.1 - Backdoor Command Execution*
 ```bash
