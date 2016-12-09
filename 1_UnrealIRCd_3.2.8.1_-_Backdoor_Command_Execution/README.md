@@ -1,6 +1,45 @@
-# Metasploit
+Tugas-III
 
+Pendahuluan
+
+Tugas 2 PKSJ - Ganjil 2016/2017
+
+Pendahuluan
+
+Tugas 2 adalah tugas kedua yang harus di selesaikan sebagai salah satu syarat penilaian pada matakuliah Perancangan Keamanan & Sistem Jaringan (PKSJ) Semester Ganjil 2016/2017, TeknikInformatika ITS, Surabaya
+
+AnggotaKelompok
+
+• Dewi Kartika 5113100008
+
+• M.Sholaudin 5112100075
+
+• FauzanAdim 5113100101
+
+Dasar teori :
+
+![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/6.JPG)
+
+a. Metasploitable merupakan sofware security yang sering digunakan untuk menguji coba ketahanan suatu sistem dengan cara mengeksploitasi kelemahan software suatu sistem.
+
+b.  Kali Linux adalah distribusi berlandasan distribusi Debian GNU/Linux untuktujuanforensik digital dan di gunakan untuk pengujian penetrasi, yang dipelihara dan didanai oleh Offensive Security. Kali juga dikembangkan oleh Offensive Security sebagai penerus BackTrack Linux. Salah satu distribusi Linux tingkat lanjut untuk Penetration Testingdan audit keamanan. Distroinidulunyaadalahdistro Backtrack, yang kemudian memutuskan mengganti nama distronya tersebut menjadi Kali Linux di versi terbarunya. Kali Linux ini akan dijadikan sebagai standarisasi distro Linux yang digunakan untuk percobaan penetrasi.
+
+![alt tag](https://github.com/PKSJTeam/Tugas-III/blob/master/Picture/virtualbox.png)
+
+c. Virtual Box merupakan software virtualisasi yang digunakan untuk menginstal OS “Operating System” atau bahasa indonesianya Sistem Operasi. Jadi kalian semua dapat menginstal sistem operasi lain di dalam sistem operasi yang kalian punya, begituu. Misalnya anda memiliki sistem operasi Ms. Windows yang terpasang pada komputer anda, maka anda dapat pula menjalankan sistem operasi lain pada Ms.Windows yang anda punya.
 ## UnrealIRCd 3.2.8.1 - Backdoor Command Execution (Metasploit)
+
+Instalasi Metasploitable
+1.![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/1.JPG)
+
+2.![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/2.JPG)
+
+3.![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/3.JPG)
+
+4. ![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/4.JPG)
+
+5.![alt tag](https://github.com/PKSJTeam/Metasploit/blob/master/1_UnrealIRCd_3.2.8.1_-_Backdoor_Command_Execution/img/5.JPG)
+
 
 ### Pemasangan UnrealIRCd
 
